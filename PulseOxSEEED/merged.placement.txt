@@ -1,0 +1,4 @@
+PulseOxTCN*rotated90 0.850 0.850
+PulseOxBCM*rotated90 3.630 0.850
+PulseOxBCN*rotated90 0.850 4.293
+PulseOxTCM*rotated90 3.630 4.293
